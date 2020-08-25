@@ -1,0 +1,2 @@
+# nickel
+hardware info viewer
